@@ -1,6 +1,6 @@
 {
-  "name": "Jekyll-tutorial-raw",
-  "tagline": "This is a setup for jekyll blogs",
-  "body": "# # # This is a trial of website\r\n",
+  "name": "Blog",
+  "tagline": "The more you write the better you get it.",
+  "body": "# Deep Learning \r\nThe Great deep learning tools\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
